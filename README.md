@@ -10,7 +10,7 @@ SkyBooking is a comprehensive travel booking platform that allows users to searc
 **Team Name**: SkyCode  
 
 **Project Memebers**: Hisham Mohammed  
-1.[Requirments](https://github.com/HIS-MOHAMMED/SkyBooking/blob/main/Requirments.md)  
+1.[Requirments Analysis](https://github.com/HIS-MOHAMMED/SkyBooking/blob/main/Requirments-Analysis.md)  
 2.State Diagram  
 3.Scenario Descriptions  
 4.Front-End  
